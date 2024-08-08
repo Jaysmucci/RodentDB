@@ -103,4 +103,4 @@ The `RodentDB` class includes basic error handling using try-catch blocks around
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue if you have any suggestions or find any bugs.
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/jaysmuchi/RodentDB?tab=MIT-1-ov-file# "LICENSE") file for details.
