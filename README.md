@@ -1,7 +1,7 @@
 ![RodentDB](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTYSo-jZBI1ikXtttSMQJVyOVzlkTGbABU1A&s)
 # Rodent DB - A SIMPLE PHP DATABASE WRAPPER
 ## Overview
-RodentDB is a lightweight PHP class that implements a Singleton pattern to manage database connections and operations. It allows you to easily perform CRUD (Create, Read, Update, Delete) operations with MySQL databases using PDO.
+RodentDB is a lightweight PHP wrapper that implements a Singleton pattern to manage database connections and operations. It allows you to easily perform CRUD (Create, Read, Update, Delete) operations with MySQL databases using PDO.
 ## Features
 * Singleton Pattern: Ensures a single database connection instance throughout the application.
 * CRUD Operations: Supports easy insertion, selection, updating, and deletion of records.
